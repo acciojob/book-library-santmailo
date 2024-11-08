@@ -11,7 +11,8 @@ body{
 	color: #777777
 }
 
-.book>button{
+.book>div{
 	color: #2ecc71;
+	border-radius: 5px;
 }
 
