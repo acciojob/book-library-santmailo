@@ -8,11 +8,12 @@ body{
 }
 
 .book>p{
-	color: #777777
+	background-color: rgb(255, 255, 255);
 }
 
 .book>div{
-	color: #2ecc71;
+	color: white;
+	background-color: rgb(46, 204, 113); 
 	border-radius: 5px;
 }
 
